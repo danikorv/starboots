@@ -1,0 +1,226 @@
+[
+    {
+      "BOOTS": "images/pop1.png",
+      "ERA": "pop",
+      "NUMBER": 2,
+      "COLOR": "green",
+      "RATING": "5/5"
+    },
+    {
+      "BOOTS": "images/pop2.png",
+      "ERA": "pop",
+      "NUMBER": 2,
+      "COLOR": "black",
+      "RATING": "3/5"
+    },
+    {
+      "BOOTS": "images/pop3.png",
+      "ERA": "pop",
+      "NUMBER": 3,
+      "COLOR": "teal",
+      "RATING": "1/5"
+    },
+    {
+      "BOOTS": "images/pop4.png",
+      "ERA": "pop",
+      "NUMBER": 4,
+      "COLOR": "purple",
+      "RATING": "1/5"
+    },
+    {
+      "BOOTS": "images/pop5.png",
+      "ERA": "pop",
+      "NUMBER": 5,
+      "COLOR": "blue",
+      "RATING": "3/5"
+    },
+    {
+      "BOOTS": "images/pop6.png",
+      "ERA": "pop",
+      "NUMBER": 11,
+      "COLOR": "teal",
+      "RATING": "2/5"
+    },
+    {
+      "BOOTS": "images/pop7.png",
+      "ERA": "pop",
+      "NUMBER": 12,
+      "COLOR": "black",
+      "RATING": "1/5"
+    },
+    {
+      "BOOTS": "images/pop8.png",
+      "ERA": "pop",
+      "NUMBER": 11,
+      "COLOR": "white",
+      "RATING": "5/5"
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": 6,
+      "COLOR": "brown",
+      "RATING": "2/5"
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": 6,
+      "COLOR": "brown",
+      "RATING": "5/5"
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": 23,
+      "COLOR": "black",
+      "RATING": "5/5"
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "ow1",
+      "ERA": "old western",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "c1",
+      "ERA": "classic",
+      "NUMBER": 1,
+      "COLOR": "red",
+      "RATING": "5/5"
+    },
+    {
+      "BOOTS": "c2",
+      "ERA": "classic",
+      "NUMBER": 5,
+      "COLOR": "white",
+      "RATING": "5/5"
+    },
+    {
+      "BOOTS": "c3",
+      "ERA": "classic",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "c4",
+      "ERA": "classic",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "c5",
+      "ERA": "classic",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "c6",
+      "ERA": "classic",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "c7",
+      "ERA": "classic",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "c8",
+      "ERA": "classic",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    },
+    {
+      "BOOTS": "",
+      "ERA": "modern",
+      "NUMBER": "",
+      "COLOR": "",
+      "RATING": ""
+    }
+  ]
