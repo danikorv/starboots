@@ -1,6 +1,6 @@
 
 table {
-    background: lightblue;
+    background: rgb(255, 158, 213);
     border-radius: 10px;
     margin: 5% auto;
 }
@@ -12,6 +12,6 @@ th, td {
 }
 
 img {
-    width: 50px;
+    width: 400px;
     height: auto;
 }

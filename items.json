@@ -56,60 +56,60 @@
       "RATING": "5/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern1.png",
       "ERA": "old western",
       "NUMBER": 6,
       "COLOR": "brown",
       "RATING": "2/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern2.png",
       "ERA": "old western",
       "NUMBER": 6,
       "COLOR": "brown",
       "RATING": "5/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern3.png",
       "ERA": "old western",
       "NUMBER": 23,
       "COLOR": "black",
       "RATING": "5/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern4.png",
       "ERA": "old western",
       "NUMBER": "",
-      "COLOR": "",
-      "RATING": ""
+      "COLOR": "beige",
+      "RATING": "2/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern5.png",
       "ERA": "old western",
       "NUMBER": "",
-      "COLOR": "",
-      "RATING": ""
+      "COLOR": "brown",
+      "RATING": "3/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern6.png",
       "ERA": "old western",
       "NUMBER": "",
-      "COLOR": "",
-      "RATING": ""
+      "COLOR": "brown/teal",
+      "RATING": "1/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern7.png",
       "ERA": "old western",
       "NUMBER": "",
-      "COLOR": "",
-      "RATING": ""
+      "COLOR": "brown/white/red/blue",
+      "RATING": "1/5"
     },
     {
-      "BOOTS": "ow1",
+      "BOOTS": "images/oldwestern8.png",
       "ERA": "old western",
       "NUMBER": "",
-      "COLOR": "",
-      "RATING": ""
+      "COLOR": "brown",
+      "RATING": "1/5"
     },
     {
       "BOOTS": "c1",
